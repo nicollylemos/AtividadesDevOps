@@ -1,21 +1,29 @@
 # Resumo - Aula 01: Apresentação da Disciplina e Introdução ao DevOps
 
-**Disciplina:**  DevOps  
-**Instituição:** FATEC (Faculdade de Tecnologia)  
-**Professor:** Prof. Me. [cite_start]Deivison S. Takatu (`deivison.takatu@fatec.sp.gov.br`) 
+**Disciplina:**  Integração e Entrega Continua (DevOps)
+**Instituição:** FATEC Sorocaba (Faculdade de Tecnologia)  
+**Professor:** Prof. Deivison S. Takatu (`deivison.takatu@fatec.sp.gov.br`) 
 
 ---
 
 ## 1. Lista de Conteúdo da Aula 01
 
 -Apresentação da Disciplina e Contextualização;
+
 -Apresentação
+
 -Plano de Aulas e Ensino;
+
 -Contexto da Disciplina;
+
 -Sequência dos Conteúdos do Semestre;
+
 -Metodologia de Ensino;
+
 -Critérios de Avaliação;
+
 -Atividade;
+
 -Conclusão.
 
 
@@ -29,10 +37,15 @@ O professor apresentou sobre o seu histórico acadêmico e orientou sobre os mé
 ## 3. Conteúdo: Introdução ao Versionamento e Deploy
 
 A matéria de Programação Web tem como foco construir interfaces e desenvolver aplicações/projetos. Em conjunto com a disciplina de Deploy, é possível realizar o versionamento, registro e monitoramento das versões de desenvolvimento com mais facilidade. Realizar esses registros permite:
+
 - Recuperar versões
+  
 - Realizar projetos colaborativos
+
 - Automação
+
 - Deploy
+
 - Controle de versões
 
 ---
@@ -50,13 +63,7 @@ Quando realizamos a alteração, utilizando CI fica muito mais fácil de identif
 ---
 ## 5. Conteúdo: Qualidade de Software e Testes Automatizados
 
-O nível de qualidade do projeto deve ser validado durante todo o  processo de desenvolvimento, então é uma opção viável utilizar ferramentas de automação que analisam:
-
-Padronização do código;
-Segurança;
-Complexidade;
-Cobertura de testes;
-Vulnerabilidades.
+O nível de qualidade do projeto deve ser validado durante todo o  processo de desenvolvimento, então é uma opção viável utilizar ferramentas de automação que analisam: Padronização do código, segurança, complexidade, cobertura de testes, vulnerabilidades.
 
 Quanto mais rápido conseguirmos identificar uma falha ou bug menor será o prejuízo.
 
@@ -78,17 +85,17 @@ No conteúdo da aula é apresentada a importância de ter um portfolio para demo
 ---
 
 ## 10. Atividade da Aula 01
-1. [**Formação de Grupos:** Grupos fixos de 3 a 5 integrantes para a realização das atividades do semestre
+1. **Formação de Grupos:** Grupos fixos de 3 a 5 integrantes para a realização das atividades do semestre
 
-Grupo: Karina de Moraes, Mike Willy, Nicolly Lemos, Pedro Henrique e Rafaela Mansano
+ Grupo: Karina de Moraes, Mike Willy, Nicolly Lemos, Pedro Henrique e Rafaela Mansano
 
 2. **Repositório GitHub:** Criação do repositório principal do grupo contendo o resumo da Aula 01 
 
-Link do repositório: 
+ Link do repositório: https://github.com/nicollylemos/AtividadesDevOps/tree/main/Aula%2001%20-%20Apresenta%C3%A7%C3%A3o%20da%20Disciplina%20e%20Introdu%C3%A7%C3%A3o%20ao%20DevOps
 
 3. **Avaliação Diagnóstica:** Preenchimento da avaliação diagnóstica inicial da aula:
 
-Preenchido! Respondi no dia então não tenho print.
+ Preenchido! Respondi no dia então não tenho print.
 
 ---
 
