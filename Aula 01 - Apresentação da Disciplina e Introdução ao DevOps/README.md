@@ -1,7 +1,7 @@
 # Resumo - Aula 01: Apresentação da Disciplina e Introdução ao DevOps
 
 **Disciplina:**  DevOps  
-[cite_start]**Instituição:** FATEC (Faculdade de Tecnologia)  
+**Instituição:** FATEC (Faculdade de Tecnologia)  
 **Professor:** Prof. Me. [cite_start]Deivison S. Takatu (`deivison.takatu@fatec.sp.gov.br`) 
 
 ---
@@ -22,7 +22,7 @@
 
 
 ## 2. Visão Geral Aula
-[cite_start]  O professor apresentou sobre o seu histórico acadêmico e orientou sobre os métodos de avaliação para o semestre, além de reforçar sobre CI/CD (integração contínua e entrega contínua) e o que aprendemos durante o semestre anterior.
+O professor apresentou sobre o seu histórico acadêmico e orientou sobre os métodos de avaliação para o semestre, além de reforçar sobre CI/CD (integração contínua e entrega contínua) e o que aprendemos durante o semestre anterior.
 
 ---
 
@@ -38,15 +38,16 @@ A matéria de Programação Web tem como foco construir interfaces e desenvolver
 ---
 
 ## 3. Conteúdo: Automação de Pipelines (CI/CD)
- Foi apresentado também o conceito de pipelines, que seria a sequência automatizadas de tarefas, onde atividades que são repetitivas podem ser otimizadas, diminuindo retrabalho e também impedindo que falhas humanas passem despercebidas. 
+Foi apresentado também o conceito de pipelines, que seria a sequência automatizadas de tarefas, onde atividades que são repetitivas podem ser otimizadas, diminuindo retrabalho e também impedindo que falhas humanas passem despercebidas. 
 
 ---
 
 ## 4. Conteúdo: Integração Contínua (Continuous Integration - CI)
 
-Quando realizamos a alteração, utilizando CI fica muito mais fácil de identificar bugs e problemas logo no início, diminuindo os conflitos que poderiam acontecer durante o restante do desenvolvimento.
----
+Quando realizamos a alteração, utilizando CI fica muito mais fácil de identificar bugs e problemas logo no início, diminuindo os conflitos que poderiam acontecer durante o restante do desenvolvimento. efmwfk
 
+
+---
 ## 5. Conteúdo: Qualidade de Software e Testes Automatizados
 
 O nível de qualidade do projeto deve ser validado durante todo o  processo de desenvolvimento, então é uma opção viável utilizar ferramentas de automação que analisam:
@@ -58,7 +59,6 @@ Cobertura de testes;
 Vulnerabilidades.
 
 Quanto mais rápido conseguirmos identificar uma falha ou bug menor será o prejuízo.
-
 
 
 ## 6. Entrega Contínua (Continuous Delivery - CD)
@@ -78,15 +78,15 @@ No conteúdo da aula é apresentada a importância de ter um portfolio para demo
 ---
 
 ## 10. Atividade da Aula 01
-1. [cite_start]**Formação de Grupos:** Grupos fixos de 3 a 5 integrantes para a realização das atividades do semestre[cite: 262, 280].
+1. [**Formação de Grupos:** Grupos fixos de 3 a 5 integrantes para a realização das atividades do semestre
 
 Grupo: Karina de Moraes, Mike Willy, Nicolly Lemos, Pedro Henrique e Rafaela Mansano
 
-2. [cite_start]**Repositório GitHub:** Criação do repositório principal do grupo contendo o resumo da Aula 01 
+2. **Repositório GitHub:** Criação do repositório principal do grupo contendo o resumo da Aula 01 
 
 Link do repositório: 
 
-3. [cite_start]**Avaliação Diagnóstica:** Preenchimento da avaliação diagnóstica inicial da aula[cite: 266, 284].
+3. **Avaliação Diagnóstica:** Preenchimento da avaliação diagnóstica inicial da aula:
 
 Preenchido! Respondi no dia então não tenho print.
 
