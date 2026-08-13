@@ -1,4 +1,4 @@
-# Integração e Entrega Continua (DevOps)
+# Integração e Entrega Contínua (DevOps)
 
 
 **Disciplina:**  Integração e Entrega Continua (DevOps)  
