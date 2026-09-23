@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Integração e Entrega Contínua (DevOps)
+#  Integração e Entrega Contínua (DevOps)
 
 Atividades, resumos e projetos desenvolvidos ao longo do semestre na Fatec Sorocaba.
 
