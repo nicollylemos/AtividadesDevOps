@@ -19,3 +19,6 @@ Abaixo estão listadas as atividades e resumos desenvolvidos ao longo das aulas 
 - 📂 [Aula 05 - Pipeline de Integração Contínua](https://github.com/nicollylemos/AtividadesDevOps/tree/main/Aula%2005%20-%20Pipeline%20de%20Integra%C3%A7%C3%A3o%20Cont%C3%ADnua)
   - 🔗 Repositório da atividade: [rafamans4no/Atividade_Aula05](https://github.com/rafamans4no/Atividade_Aula05)
 - 📂 [Aula 06 - Revisão Ferramentas e Pipelines](https://github.com/nicollylemos/AtividadesDevOps/tree/main/Aula%2006%20-%20Revis%C3%A3o%20Ferramentas%20e%20Pipelines)
+- 📂 [Aula 07 - Testes Automatizados](https://github.com/nicollylemos/AtividadesDevOps/tree/main/Aula%2006%20-%20Revis%C3%A3o%20Ferramentas%20e%20Pipelines)
+  - 🔗 Repositório da atividade: [nicollylemos/Atividade07DevOps](https://github.com/nicollylemos/Atividade07DevOps)
+ 
