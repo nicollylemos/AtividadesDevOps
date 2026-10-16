@@ -8,6 +8,7 @@ Atividades, resumos e projetos desenvolvidos ao longo do semestre na Fatec Soroc
 ![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-0A66C2?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
 
@@ -27,16 +28,6 @@ A disciplina aborda a cultura e as práticas DevOps, com foco em automatizar o c
 
 A ideia central é que qualidade não é uma etapa isolada no fim do projeto, mas algo que acompanha todo o processo: cada alteração passa por validações automáticas e, se algo falha, a pipeline para antes que uma versão com problema chegue a outro ambiente.
 
-### 👥 Grupo
-
-| Integrante | GitHub |
-|---|---|
-| Karina de Moraes Garcia | — |
-| Mike Willy Franguelli | — |
-| Nicolly Lemos da Silva | [@nicollylemos](https://github.com/nicollylemos) |
-| Pedro Henrique Cardozo Dias | — |
-| Rafaela Mansano Fernandes | [@rafamans4no](https://github.com/rafamans4no) |
-
 ---
 
 ## 📚 Aulas e atividades
@@ -50,6 +41,8 @@ A ideia central é que qualidade não é uma etapa isolada no fim do projeto, ma
 | 05 | Pipeline de Integração Contínua | [📂 Abrir](./Aula%2005%20-%20Pipeline%20de%20Integra%C3%A7%C3%A3o%20Cont%C3%ADnua) | [Atividade_Aula05](https://github.com/rafamans4no/Atividade_Aula05) | — |
 | 06 | Revisão: Ferramentas e Pipelines | [📂 Abrir](./Aula%2006%20-%20Revis%C3%A3o%20Ferramentas%20e%20Pipelines) | — | — |
 | 07 | Testes Automatizados | [📂 Abrir](./Aula%2007%20-%20Testes%20Automatizados) | [Atividade07DevOps](https://github.com/nicollylemos/Atividade07DevOps) | — |
+| 08 | Apresentação de Ferramentas DevOps (AWS CloudFormation) | [📂 Abrir](./Aula%2008%20-%20Apresenta%C3%A7%C3%A3o%20Ferramentas%20DevOps) | — | — |
+| 09 | Documentação de Software | [📂 Abrir](./Aula%2009%20-%20Documenta%C3%A7%C3%A3o%20de%20Software) | [Agendamento](https://github.com/nicollylemos/Agendamento) | — |
 
 ---
 
@@ -65,6 +58,8 @@ A ideia central é que qualidade não é uma etapa isolada no fim do projeto, ma
 | **Pipelines** | Workflows `.yml` no GitHub Actions, com etapas encadeadas e a regra "falhou, para tudo" |
 | **Testes Automatizados** | Testes unitários, de integração e de performance executados na pipeline |
 | **Qualidade de Código** | Análise estática com ESLint e auditoria de dependências com `npm audit` |
+| **Infraestrutura como Código** | Provisionamento de recursos na nuvem a partir de templates versionados, com o AWS CloudFormation |
+| **Documentação de Software** | Documentação técnica, de projeto e de processo, README completo e o que nunca deve ser publicado (senhas, tokens e `.env`) |
 
 ---
 
@@ -75,9 +70,12 @@ A ideia central é que qualidade não é uma etapa isolada no fim do projeto, ma
 | Versionamento | Git, GitHub |
 | CI/CD | GitHub Actions |
 | Deploy | Vercel |
+| Infraestrutura como Código | AWS CloudFormation |
 | Testes | Jest, Vitest, Testing Library |
 | Qualidade | ESLint, npm audit |
 | Front-end | HTML, CSS, JavaScript, React, Vite |
+| Back-end | Node.js, Express, TypeScript, PostgreSQL |
+| Segurança | gitleaks |
 
 ---
 
@@ -92,6 +90,8 @@ AtividadesDevOps/
 ├── Aula 05 - Pipeline de Integração Contínua/
 ├── Aula 06 - Revisão Ferramentas e Pipelines/
 ├── Aula 07 - Testes Automatizados/
+├── Aula 08 - Apresentação Ferramentas DevOps/
+├── Aula 09 - Documentação de Software/
 └── README.md
 ```
 
@@ -101,6 +101,7 @@ Cada pasta tem um `README.md` com o resumo da aula, a atividade proposta e o que
 
 ## 📖 Referências bibliográficas
 
+- ARUNDEL, J.; DOMINGUS, J. *DevOps nativo de nuvem com Kubernetes*. São Paulo: Novatec, 2019.
 - HUMBLE, J.; PRIKLANDNICKI, R. *Entrega Contínua: Como Entregar Software de Forma Rápida e Confiável*. São Paulo: Bookman, 2013.
 - KIM, G.; HUMBLE, J.; DEBOIS, P.; WILLIS, J. *Manual de DevOps: Como obter agilidade, confiabilidade e segurança em organizações tecnológicas*. São Paulo: Alta Books, 2018.
 - MORAES, G. *Caixa de Ferramentas DevOps*. São Paulo: Casa do Código, 2015.
