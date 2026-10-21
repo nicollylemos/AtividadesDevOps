@@ -2,7 +2,7 @@
 
 Atividade individual da Aula 09 da disciplina de Integração e Entrega Contínua (DevOps), FATEC Sorocaba, com o Prof. Me. Deivison S. Takatu.
 
-**Aluna:** Nicolly Lemos da Silva ([@nicollylemos](https://github.com/nicollylemos))
+**Alunas:** Nicolly Lemos da Silva e Karina de Moraes Garcia
 **Projeto documentado:** Sistema de Agendamento Online
 **Repositório:** https://github.com/nicollylemos/Agendamento
 
